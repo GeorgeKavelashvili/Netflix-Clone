@@ -24,11 +24,12 @@
 }
 .banner--fadeBottom {
   height: 7.4rem;
-  background-image: linear-gradient(
+  /* background-image: linear-gradient(
     180deg,
     transparent,
-    rgba(37, 37, 37, 0.61) #111
-  );
+    rgba(37, 37, 37, 0.1) #111
+  ); */
+  background-image: linear-gradient(to top, #111 5%, transparent 70%);
 }
 .banner_button {
   cursor: pointer;
