@@ -46,22 +46,21 @@
   z-index: 1;
   color: #fff;
   padding: 20px;
+  left: 0;
+  right: 0;
 }
 .loginScreen_body > h1 {
   font-size: 3.125rem;
   margin-bottom: 20px;
-  padding-left: 240px;
 }
 .loginScreen_body > h2 {
   font-size: 2rem;
   margin-bottom: 30px;
   font-weight: 400;
-  padding-left: 160px;
 }
 .loginScreen_body > h3 {
   font-size: 1.3rem;
   font-weight: 300;
-  padding-left: 140px;
 }
 .loginScreen_input > form > input {
   padding: 10px;
@@ -82,5 +81,4 @@
 }
 .loginScreen_input {
   margin: 20px;
-  padding-left: 180px;
 }

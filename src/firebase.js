@@ -1,3 +1,4 @@
+import firebase from "firebase";
 const firebaseConfig = {
   apiKey: "AIzaSyCBoGFSkhsBBSBmA8DeDovmhrpKkSB75Ro",
   authDomain: "netflix-9c306.firebaseapp.com",
