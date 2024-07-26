@@ -32,7 +32,7 @@ function App() {
   );
 }
 export default App;
-
+//amas ro naxav martla mainteresebs ras aketeb am dros amas ro werdi elenes elaparakebodi da mogwonda
 //tu ginda ro homepage naxo essaa
 // export default App;
 // import React from "react";
